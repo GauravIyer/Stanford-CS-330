@@ -10,7 +10,7 @@ This repository contains my solutions to the homework assignments for CS-330, "D
 - [x] Implement MANN
 - [x] Add basic working model
 - [x] Model achieves more than 60% accuracy (extra credit)
-- [ ] Add Colab GPU support
+- [x] Add Colab GPU support
 
 ## Some Accuracy Plots for HW1 over multiple runs:
 ![Plot 1](https://github.com/infinitemugen/Stanford-CS-330/blob/master/HW1/Accuracy%20Plots/1.png)
